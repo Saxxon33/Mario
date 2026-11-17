@@ -1,0 +1,26 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	background-color: #9A7B4F;
+}
+
+#canvas1 {
+	background-color: cyan;
+	border: 2px solid black;
+	display: block;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid black;
+}
+
+label {
+	color: black;
+	font-size: xx-large;
+}
+
+h1 {
+	color: red;
+	text-shadow: 2px 2px black;
+	text-align: center;
+}
